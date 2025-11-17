@@ -1,0 +1,24 @@
+# Flask Web框架
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# HTTP请求库
+requests==2.31.0
+
+# 环境变量管理
+python-dotenv==1.0.0
+
+# 日志增强
+colorlog==6.8.0
+
+# 数据处理
+python-dateutil==2.8.2
+
+# WSGI服务器（生产环境使用）
+gunicorn==21.2.0
+
+# 开发工具
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.12.1
+flake8==6.1.0
